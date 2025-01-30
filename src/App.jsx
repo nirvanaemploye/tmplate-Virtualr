@@ -3,7 +3,7 @@ import Features from "./Componets/Featuresection/Features";
 import Footer from "./Componets/Footer/Footer";
 import Hero from "./Componets/Hero/Hero";
 import Navbar from "./Componets/Navbar/Navbar";
-import Pricing from "./Componets/Pricing/pricing";
+import Pricing from "./Componets/Pricing/Pricing";
 import Testimotions from "./Componets/Testimotions/Testimotions";
 import Workflow from "./Componets/Workflow/Workflow";
 import AOS from "aos";
@@ -27,7 +27,7 @@ const App = () => {
         <Workflow />
         <Pricing/>
         <Testimotions/>
-        ,<Footer/>
+        <Footer/>
       </div>
     </div>
   );
