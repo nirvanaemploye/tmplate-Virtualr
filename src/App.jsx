@@ -20,7 +20,7 @@ const App = () => {
   })
   return (
     <div className="bg-dark bg-black/90 overflow-y-hidden">
-      <Navbar />
+      <Navbar/>
       <div className="max-w-6xl mx-auto pt-20 px-6">
         <Hero />
         <Features />

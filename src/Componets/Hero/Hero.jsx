@@ -4,7 +4,7 @@ import video2 from "../../assets/video2.mp4";
 const Hero = () => {
   return (
     <>
-      <div className="flex flex-col items-center mt-6 lg:mt-20">
+      <div className="flex flex-col items-center mt-24 lg:mt-20">
         {/* Hero text section  */}
         <h1
           data-aos="fade-down"
